@@ -7,11 +7,11 @@
 </head>
 <body>
     <?php 
-        echo "Vo Dinh Tuyen";
-        echo "Ngo Quoc Trung";
-        echo "To Hieu Ngoi";
-        echo "Nguyen Hoang Anh Tien";
-        echo "Nguyen Tan Vinh";
+        echo "Vo kituno juma Tuyen";
+        echo "Ngo yudaya saida abdallah";
+        echo "To Hieu salim Ngoi";
+        echo "bukoma jalia Hoang Aisha Tien";
+        echo "bukoma fatuma Tasmeen Vinh";
     ?>
 </body>
 </html>
